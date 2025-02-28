@@ -1,7 +1,8 @@
 # Portfolio Optimization with Stochastic Programming
 
 ## Project Overview
-This repository contains the implementation of a two-stage stochastic optimization model for financial portfolio management. The model is designed to maximize the amount of money invested at the start of a future period while incorporating financial instruments such as stocks, call options, and futures contracts.
+This repository contains the implementation of a two-stage stochastic optimization model for financial portfolio management. 
+The model is designed to maximize the amount of money invested at the start of a future period while incorporating financial instruments such as stocks, call options, and futures contracts.
 
 ## Contents
 - `Python_File.ipynb`: Jupyter Notebook containing the full implementation of the optimization model.
